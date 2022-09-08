@@ -239,8 +239,12 @@ XXencode 将输入文本以每三个字节为单位进行编码。如果最后�
 - 大量的百分号
 
 ### 工具
-
+[在线工具](http://www.jsons.cn/urlencode)
 ### 题目
+```
+%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BE%8B%E5%AD%90
+```
+![image](https://user-images.githubusercontent.com/90653809/189082616-b004fad4-76d4-4eb1-99e7-939f16b9adea.png)
 
 ## Unicode 编码
 
@@ -261,7 +265,11 @@ XXencode 将输入文本以每三个字节为单位进行编码。如果最后�
 \U+ [Hex]:  `\U+0054\U+0068\U+0065`
 
 ### 工具
-
+[在线工具](http://www.jsons.cn/unicode/)
 ### 题目
+```
+\u8fd9\u4e5f\u662f\u4e00\u4e2a\u4f8b\u5b50
+```
+![image](https://user-images.githubusercontent.com/90653809/189082831-f03f4db2-b290-4f6a-b55a-a941ca6c42c1.png)
 
 ## HTML 实体编码
